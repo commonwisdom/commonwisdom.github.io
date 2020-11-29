@@ -28,13 +28,15 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # github_username:  commonwisdom
 
 # Build settings
-<<<<<<< HEAD
 # theme: minima
-=======
->>>>>>> 5cc156b1f9e665147baaa26281b38460e66c97f8
-theme: jekyll-theme-cayman
+include: ["_pages"]
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin    : "dark"
+# theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
