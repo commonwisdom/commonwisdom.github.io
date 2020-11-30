@@ -5,3 +5,5 @@
 layout: home
 ---
 We are at the beginning
+
+Hi how are you doing?
